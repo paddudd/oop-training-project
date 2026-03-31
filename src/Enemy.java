@@ -9,6 +9,7 @@ public class Enemy {
         this.name = name;
         this.hp = hp;
         this.dmg = dmg;
-        this.desc =
+        this.desc = desc;
+        this.deathDesc = deathDesc;
     }
 }
